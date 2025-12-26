@@ -100,6 +100,7 @@ Required PHP extensions:
 or
 ```
 php console/yii app/setup
+nvm use 16
 npm run build
 ```
 
